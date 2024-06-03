@@ -1,0 +1,5 @@
+# pythonのlocal環境
+venv/
+python/
+__pycache__/
+.env*
